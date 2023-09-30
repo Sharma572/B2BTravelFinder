@@ -19,7 +19,6 @@ import CheckBoxIcon from "@mui/icons-material/CheckBox";
 import BrunchDiningIcon from "@mui/icons-material/BrunchDining";
 import CurrencyExchangeIcon from "@mui/icons-material/CurrencyExchange";
 import PropTypes from "prop-types";
-import SwipeableViews from "react-swipeable-views";
 import { useTheme } from "@mui/material/styles";
 import AppBar from "@mui/material/AppBar";
 import Tabs from "@mui/material/Tabs";
